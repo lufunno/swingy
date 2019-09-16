@@ -1,0 +1,15 @@
+Warrior efle 5 65 155 52 12200 WEAPON
+Warrior something_soweto 1 165 100 100 1000 WEAPON
+Warrior something_soweto 1 165 165 100 1000 WEAPON
+Warrior skj 1 165 100 100 1000 WEAPON
+Warrior 1 1 100 155 100 1000 ARMOR
+Warrior lufuno 2 165 100 84 2450 WEAPON
+Warrior lufuno 1 100 155 100 1000 ARMOR
+Warrior lufuno 1 100 155 58 1000 ARMOR
+Warrior lufuno 1 100 155 58 1000 ARMOR
+Warrior lufuno 1 100 155 58 1000 ARMOR
+Warrior lufuno 1 100 155 58 1000 ARMOR
+Warrior trgfdbfd 1 100 155 100 1000 ARMOR
+Warrior trgfdbfd 1 100 100 100 1000 ARMOR
+Warrior oltg 1 100 155 100 1000 ARMOR
+Warrior rt 2 175 100 100 2450 HELM
